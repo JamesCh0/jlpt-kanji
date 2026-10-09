@@ -1,0 +1,32 @@
+{
+  "rawSourceRows": 2198,
+  "expandedRows": 2202,
+  "uniqueRecords": 1934,
+  "levels": {
+    "N5": 652,
+    "N4": 900,
+    "N3": 502,
+    "N2": 0,
+    "N1": 0
+  },
+  "eligibleByLevel": {
+    "N5": 610,
+    "N4": 884,
+    "N3": 490,
+    "N2": 0,
+    "N1": 0
+  },
+  "categories": {
+    "verb": 391,
+    "noun": 1033,
+    "i_adjective": 109,
+    "na_adjective": 73,
+    "adverb": 85,
+    "other": 243
+  },
+  "mergedCount": 268,
+  "multipleSources": 210,
+  "reviewCount": 70,
+  "core500Records": 502,
+  "core500SourceEntries": 500
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "2026-10-08.1",
+  "files": [
+    "n5.json",
+    "n4.json",
+    "n3.json",
+    "n2.json",
+    "n1.json"
+  ],
+  "levels": [
+    "N5",
+    "N4",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "pendingLevels": [
+    "N2",
+    "N1"
+  ],
+  "darakwonAvailable": false,
+  "sourceNotes": [
+    "다락원 DAY 단어연습장은 현재 첨부 9개에 없음. DAY는 null.",
+    "모모의 500 표시는 파고다 core500과 무관. core500은 실제 파고다 N3 출처에만 적용.",
+    "일단합격 N5는 단어 부분 PDF 4~13쪽을 구조화. 14~24쪽 유의어 문장 및 26~30쪽 문법은 원문 보관, 단어 퀴즈 제외."
+  ]
+}
